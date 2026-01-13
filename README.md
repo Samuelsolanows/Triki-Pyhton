@@ -46,5 +46,8 @@ No requiere librerías externas
 👤 Autor
 Samuel Solano
 Tecnólogo en Análisis y Desarrollo de Software
+👤 Autor
+Brayan Castillo
+Tecnólogo en Análisis y Desarrollo de Software
 
 GitHub: https://github.com/Samuelsolanows
