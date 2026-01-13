@@ -29,16 +29,15 @@ Fue creado como práctica para reforzar la lógica de programación y el uso de 
 1. Clonar el repositorio:
    ```bash
    git clone https://github.com/Samuelsolanows/Triki-Pyhton.git
-Entrar a la carpeta del proyecto:
 
-bash
-Copiar código
-cd Triki-Pyhton
-Ejecutar el archivo principal:
+2. Entrar a la carpeta del proyecto:
+   ```bash
+   cd Triki-Pyhton
 
-bash
-Copiar código
-python triki.py
+3. Ejecutar el archivo principal:
+   ```bash 
+   python triki.py
+
  Requisitos
 Python 3 instalado
 
